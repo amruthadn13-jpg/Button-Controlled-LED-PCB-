@@ -62,13 +62,6 @@ Board Outline (Edge.Cuts)
 
 Drill File (.drl)
 
-📁 Project Structure
-Button_LED_PCB/
- ├── Schematic/
- ├── PCB/
- ├── Gerber/
- ├── Images/
- └── README.md
 🛠️ Tools Used
 KiCad (Schematic & PCB Design)
 
@@ -82,22 +75,6 @@ Importance of Design Rule Check (DRC)
 PCB routing techniques
 
 Gerber file generation process
-
-🎤 Interview Preparation
-This project helps answer:
-
-What is a PCB design workflow?
-
-What are Gerber files?
-
-What is DRC and why is it important?
-
-How do you design a simple PCB?
-
-🚀 Future Improvements
-Add power supply module (7805 regulator)
-
-Use SMD components
 
 Perform advanced SPICE simulations
 
